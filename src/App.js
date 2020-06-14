@@ -9,6 +9,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          <br/>
+          successfully deployed react app to surge on http://bootcamp-2020-class02.surge.sh/
         </p>
         <a
           className="App-link"
